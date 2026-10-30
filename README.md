@@ -36,4 +36,4 @@ The new C++ compiler needs to link programs to its standard library (libc++) so 
 -lunwind
 ```
 
-where SDK_PATH has to be replaced with output from `xcrun --show-sdk-path`.
+where @SDK_PATH@ has to be replaced with output from `xcrun --show-sdk-path`.
